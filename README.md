@@ -8,15 +8,15 @@
 > 
 > **Be original. Do not copy.**
 
-# NagrikAI 🇧🇩 — Bringing Every Voice to the Forefront
+# NagrikAI — Bringing Every Voice to the Forefront
 
 *A Hackathon MVP: Action-Based Voice AI Civic Assistant for Bangladesh*
 
 ---
 
-## 📹 Demo Video
+## Demo Video
 
-[![Watch NagrikAI Demo](https://img.youtube.com/vi/-pXKIK5JP3g/maxresdefault.jpg)](https://www.youtube.com/shorts/-pXKIK5JP3g)
+[![📹 Watch NagrikAI Demo](https://img.youtube.com/vi/-pXKIK5JP3g/maxresdefault.jpg)](https://www.youtube.com/shorts/-pXKIK5JP3g)
 
 **Click the image above to watch our demo video on YouTube Shorts**
 
@@ -74,7 +74,7 @@ NagrikAI was developed as a competition MVP for the **Impact Dhaka 2026** Intern
 
 **Official References:**
 * **University Notice:** [Northern University Bangladesh Official Recognition](https://nub.ac.bd/nub/notice/v9qsj7xz/nub-student-team-runner-up-in-international-ai-hackathon)
-* **National News:** [BD Pratidin - আন্তর্জাতিক হ্যাকাথনে এনইউবি'র জয়জয়কার](https://www.bd-pratidin.com/campus-online/2026/04/)
+* **National News:** [BD Pratidin - আন্তর্জাতিক হ্যাকাথনে এনইউবি'র জয়জয়কার](https://www.bd-pratidin.com/campus-online/2026/04/13/1238245)
 * **Community Post:** [NUBCC Official Announcement](https://www.facebook.com/nubccofficial/posts/1362111089284344/)
 
 *Built with ❤️ for Bangladesh.*
