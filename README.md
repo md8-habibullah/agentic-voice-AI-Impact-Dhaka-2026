@@ -16,7 +16,9 @@
 
 ## 📹 Demo Video
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/-pXKIK5JP3g?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Watch NagrikAI Demo](https://img.youtube.com/vi/-pXKIK5JP3g/maxresdefault.jpg)](https://www.youtube.com/shorts/-pXKIK5JP3g)
+
+**Click the image above to watch our demo video on YouTube Shorts**
 
 ---
 
